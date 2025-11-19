@@ -8,7 +8,7 @@
 - 🎓 동양대학교 컴퓨터소프트웨어공학과 재학 (20220876 심민식)
 - 🌱 요즘은 **React, TypeScript, UI/UX, 반응형 웹** 위주로 공부하고 있어요.
 - 💡 학교 과제, 동아리(UMC), 개인 프로젝트를 통해  
-  **“보기 좋고 잘 동작하는 웹 화면”**을 만드는 연습을 하고 있습니다.
+  **보기 좋고 잘 동작하는 웹 화면**을 만드는 연습을 하고 있습니다.
 - 🎯 목표: **React + TypeScript 기반 프론트엔드 개발자**가 되는 것
 
 ---
@@ -118,6 +118,6 @@
 
 ## 📮 Contact
 
-- Email: your-email@example.com
+- Email: ms03zzang@naver.com
 - GitHub: [@minsik1014](https://github.com/minsik1014)
 - Notion Portfolio: (완성되면 링크 추가 예정)
