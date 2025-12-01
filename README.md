@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Minsik</h1>
+<h1 align="center">I'm Minsikmon/h1>
 <h3 align="center">프론트엔드 개발자를 목표로 공부 중인 대학생 개발자 심민식입니다.</h3>
 
 ---
