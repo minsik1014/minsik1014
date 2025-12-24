@@ -90,8 +90,7 @@
   - 엑셀 업로드, 자료의 시각화(그래프, 도표)
   - [Repo 링크](https://github.com/minsik1014/GLife_EXPO_React)
 
-> 나중에 프로젝트 늘어나면, 이 섹션은 **대표 3~4개만** 남기고  
-> 나머지는 Pinned Repositories로 정리해줘도 좋아요.
+
 
 ---
 
