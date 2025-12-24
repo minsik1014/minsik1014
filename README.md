@@ -85,9 +85,9 @@
   - [Repo 링크](https://github.com/minsik1014/SignGlove_EXPO_React)
 
 - 🌱 **GLife EXPO Front**  
-  일상/습관 관리용 앱의 EXPO 프론트엔드 실험 프로젝트  
+  산업안전교육 플랫폼
   - `React` `Expo` `JavaScript`  
-  - 화면 전환, 기본 레이아웃, 상태 관리 패턴 연습용
+  - 엑셀 업로드, 자료의 시각화(그래프, 도표)
   - [Repo 링크](https://github.com/minsik1014/GLife_EXPO_React)
 
 > 나중에 프로젝트 늘어나면, 이 섹션은 **대표 3~4개만** 남기고  
