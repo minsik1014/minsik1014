@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 타이핑 애니메이션 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Minsik+Sim+👋;Frontend+Developer;Building+with+FSD+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Minsik+Sim;Frontend+Developer;Building+with+FSD+Architecture)](https://git.io/typing-svg)
 
 **"다양한 프로젝트를 진행해보며 실무능력을 키우고 있는 프런트엔드 개발자 Elric/심민식입니다."**
 
@@ -78,7 +78,6 @@
 | **2025** | **SCOUT BOOTSTUP 스타트업 경진대회** | 팀 프로젝트 참여 및 서포트 | 🏆 **최우수상** |
 | **2025** | **9th UMC DEMO DAY** | 팀 `PlayProof` 프론트엔드 팀장, 서비스 내 대부분의 주요 페이지 UI 구성 및 개발 | 🏆 **우수상** |
 | **2025** | **한국전자전 (KES 2025)** | 산업 안전교육 대시보드 개발 (엑셀 업로드, 수강자 관리) | 플랫폼 출전 |
-| **2025** | **전공 동아리 하계 프로젝트 IDEAL** | 서비스 기획, 코드 에디터/채팅/세션 구조 설계, 기술 스택 검토 | 협업 코딩 플랫폼 |
 | **2025** | **동양미래대학교 EXPO 2025** | 발표 및 데모 준비, 기획/화면/기술 정리 | 🏆 **우수상** |
 | **2025** | **동양미래대학교 G-Valley 작품 참가** | 서비스 구조, 주요 기능, 기술 스택 정리 및 전시 설명 | 작품 전시 |
 
