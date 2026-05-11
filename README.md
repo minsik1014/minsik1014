@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 타이핑 애니메이션 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Minsik+Sim+👋;Frontend+Developer;Building+with+FSD+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Minsik+Sim;Frontend+Developer;Building+with+FSD+Architecture)](https://git.io/typing-svg)
 
 **"사용자의 눈에 즐겁고, 동료가 읽기에 편한 코드를 작성합니다."**
 
@@ -21,12 +21,14 @@
 ---
 
 ### 📊 GitHub Status & Activity
+> 외부 통계 서버의 불안정함을 방지하기 위해, 실제 활동 수치로 저를 소개합니다.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minsik1014&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsik1014&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6" width="48%" />
-</div>
-
+- **Main Projects**: [PlayProof](https://github.com/Playproof-Umc/Playproof-Frontend) (230+ Commits), [Gusring](https://github.com/minsik1014/gusring) (진행 중)
+- **Top Languages**: `TypeScript`, `JavaScript`, `React`, `Java`, `Python`
+- **Stats**: 
+  [![Followers](https://img.shields.io/github/followers/minsik1014?label=Followers&style=flat-square&color=3B82F6)](https://github.com/minsik1014)
+  [![Stars](https://img.shields.io/github/stars-personal/minsik1014?label=Total%20Stars&style=flat-square&color=EAB308)](https://github.com/minsik1014)
+  [![Repositories](https://img.shields.io/github/repos-personal/minsik1014?label=Repositories&style=flat-square&color=22C55E)](https://github.com/minsik1014?tab=repositories)
 ---
 
 ### 🛠 Tech Stack
@@ -70,6 +72,6 @@
 ---
 
 <div align="center">
-  <!-- 방문자 수 뱃지 -->
-  <img src="https://hits.seeyoufarm.com/api/count/bnd/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminsik1014&title=Profile+Views&edge_flat=false"/>
+  <!-- 가장 안정적인 Komarev 방문자 수 카운터 -->
+  <img src="https://komarev.com/ghpvc/?username=minsik1014&color=3B82F6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
