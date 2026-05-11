@@ -5,7 +5,7 @@
 
 **"다양한 프로젝트를 진행해보며 실무능력을 키우고 있는 프런트엔드 개발자 Elric/심민식입니다."**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Link-FF4B4B?style=for-the-badge&logo=React&logoColor=white)](https://my-portfolio-zeta-ashy-62.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Link-FF4B4B?style=for-the-badge&logo=React&logoColor=white)](https://portfolio-by-minsik.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-ms03zzang@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:ms03zzang@naver.com)
 [![Instagram](https://img.shields.io/badge/Instagram-sharp.sim__03-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sharp.sim_03)
 
