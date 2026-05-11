@@ -16,17 +16,17 @@
 ### 💡 About Me
 - 🎓 **동양미래대학교** 컴퓨터소프트웨어공학과 3학년 재학 중 (22학번)
 - 🗣️ **2026 컴퓨터소프트웨어공학과 학생회 소통부장**
-- 💻 **UMC (University MakeUs Challenge)** 10th 웹 파트장 / 9th `PlayProof` 팀장
+- 💻 **UMC (University MakeUs Challenge)** 10th 웹 파트장 / 9th 챌린저 - `PlayProof` 프런트엔드 팀장
 - 🤝 **동양미래대학교 컴퓨터소프트웨어공학과 전공동아리 EL 23기**
 - 🛠 **Focus**: Feature-Sliced Design (FSD) 아키텍처를 도입하여 대규모 도메인에서도 흔들리지 않는 확장성과 유지보수성을 확보하는 개발을 지향합니다.
 
 ---
 ### 📊 Developer Capabilities & Stats
 
-- **Frontend** ㅤ: 🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜ **(85%)**
-- **Architecture**: 🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜ **(75%)**
-- **CS (Base)** ㅤ: 🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜ **(58%)**
-- **Backend** ㅤ : 🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜ **(45%)**
+- **Frontend** ㅤ   : 🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜ **(85%)**
+- **Architecture**  : 🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜ **(75%)**
+- **CS (Base)** ㅤ  : 🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜ **(58%)**
+- **Backend** ㅤ    : 🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜ **(45%)**
 
 <br/>
 
@@ -48,6 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=minsik1014&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsik1014&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6" width="48%" />
 </div>
+
 ---
 
 ### 🛠 Core Tech Stack
