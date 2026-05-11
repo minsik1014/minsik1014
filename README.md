@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 타이핑 애니메이션 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Minsik+Sim;Frontend+Developer;Building+with+FSD+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Minsik+Sim+👋;Frontend+Developer;Building+with+FSD+Architecture)](https://git.io/typing-svg)
 
 **"다양한 프로젝트를 진행해보며 실무능력을 키우고 있는 프런트엔드 개발자 Elric/심민식입니다."**
 
@@ -22,19 +22,27 @@
 
 ---
 
-### 📊 Developer Capabilities
-> 기술적 역량의 균형을 맞추며 프론트엔드 전문성 및 아키텍처 설계 능력을 키워가고 있습니다.
+### 📊 Developer Capabilities & Stats
 
 - **Frontend** ㅤ: 🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜ **(85%)**
 - **Architecture**: 🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜ **(75%)**
 - **CS (Base)** ㅤ: 🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜ **(58%)**
 - **Backend** ㅤ : 🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜ **(45%)**
 
-*안정적인 조회를 위해 외부 통계 서버 대신 실제 활동 수치로 저를 소개합니다.*
-- **GitHub Stats**: 
+<br/>
+
+<div align="center">
+  <!-- 정적 배지 (기본 지표 요약 및 빠른 이동) -->
   [![Followers](https://img.shields.io/github/followers/minsik1014?label=Followers&style=flat-square&color=3B82F6)](https://github.com/minsik1014)
-  [![Stars](https://img.shields.io/github/stars-personal/minsik1014?label=Total%20Stars&style=flat-square&color=EAB308)](https://github.com/minsik1014)
-  [![Repositories](https://img.shields.io/github/repos-personal/minsik1014?label=Repositories&style=flat-square&color=22C55E)](https://github.com/minsik1014?tab=repositories)
+  [![Repositories](https://img.shields.io/badge/Repositories-View_Here-22C55E?style=flat-square&logo=github)](https://github.com/minsik1014?tab=repositories)
+  [![Stars](https://img.shields.io/badge/Stars-View_Here-EAB308?style=flat-square&logo=github)](https://github.com/minsik1014?tab=stars)
+  
+  <br/><br/>
+
+  <!-- 동적 GitHub 통계 위젯 (상세 통계) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=minsik1014&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsik1014&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6" width="48%" />
+</div>
 
 ---
 
@@ -62,8 +70,8 @@
 | :--- | :--- | :--- | :--- |
 | **2026~** | **구로구 RISE 리빙랩 사업** - `Gusring` | 프론트엔드 개발, 배포 및 최적화, 다국어 서식 분류 구조 설계 | 진행 중 |
 | **2025** | **구로구 RISE 리빙랩 사업** | 지역 문제 해결 서비스 기획 및 요구사항 정의 | 🏆 **우수상** |
-| **2025** | **SCOUT BOOTSTUP 스타트업 경진대회** | 팀 프로젝트 참여 및 서비스 프로토타입 구현 지원 | 🏆 **최우수상** |
-| **2025** | **9th UMC DEMO DAY** | 팀 `PlayProof` 프론트엔드 팀장, 프로젝트 발표 | 🏆 **우수상** |
+| **2025** | **SCOUT BOOTSTUP 스타트업 경진대회** | 팀 프로젝트 참여 및 서포트 | 🏆 **최우수상** |
+| **2025** | **9th UMC DEMO DAY** | 팀 `PlayProof` 프론트엔드 팀장, 서비스 내 대부분의 주요 페이지 UI 구성 및 개발 | 🏆 **우수상** |
 | **2025** | **한국전자전 (KES 2025)** | 산업 안전교육 대시보드 개발 (엑셀 업로드, 수강자 관리) | 플랫폼 출전 |
 | **2025** | **전공 동아리 하계 프로젝트 IDEAL** | 서비스 기획, 코드 에디터/채팅/세션 구조 설계, 기술 스택 검토 | 협업 코딩 플랫폼 |
 | **2025** | **동양미래대학교 EXPO 2025** | 발표 및 데모 준비, 기획/화면/기술 정리 | 🏆 **우수상** |
