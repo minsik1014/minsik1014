@@ -33,7 +33,9 @@
 <div align="center">
   <!-- 정적 배지 (순수 HTML로 변경하여 깨짐 방지) -->
   <a href="https://github.com/minsik1014">
-    <img src="https://img.shields.io/github/followers/minsik1014?label=Followers&style=flat-square&color=3B82F6" alt="Followers" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minsik1014&show_icons=true" width="475" align="center" />
+    <br />
+
   </a>
   <a href="https://github.com/minsik1014?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View_Here-22C55E?style=flat-square&logo=github" alt="Repositories" />
