@@ -21,15 +21,7 @@
 - 🛠 **Focus**: Feature-Sliced Design (FSD) 아키텍처를 도입하여 대규모 도메인에서도 흔들리지 않는 확장성과 유지보수성을 확보하는 개발을 지향합니다.
 
 ---
-### 📊 Developer Capabilities & Stats
-
-- **Frontend** ㅤ   : 🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜ **(85%)**
-- **Architecture**  : 🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜ **(75%)**
-- **CS (Base)** ㅤ  : 🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜ **(58%)**
-- **Backend** ㅤ    : 🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜ **(45%)**
-
-<br/>
-
+### Stats
 <div align="center">
   <!-- 정적 배지 (순수 HTML로 변경하여 깨짐 방지) -->
   <a href="https://github.com/minsik1014">
@@ -37,19 +29,7 @@
     <br />
 
   </a>
-  <a href="https://github.com/minsik1014?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View_Here-22C55E?style=flat-square&logo=github" alt="Repositories" />
-  </a>
-  <a href="https://github.com/minsik1014?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-View_Here-EAB308?style=flat-square&logo=github" alt="Stars" />
-  </a>
-  
-  <br/><br/>
-
-  <!-- 동적 GitHub 통계 위젯 (상세 통계) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=minsik1014&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsik1014&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6" width="48%" />
-</div>
+ 
 
 ---
 
