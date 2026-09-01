@@ -1,90 +1,60 @@
-<div align="center">
+# 심민식 · Elric
 
-<!-- 타이핑 애니메이션 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi!+I'm+Minsik+Sim;Frontend+Developer;Building+with+FSD+Architecture)](https://git.io/typing-svg)
+Frontend Developer
 
-**"다양한 프로젝트를 진행해보며 실무능력을 키우고 있는 프런트엔드 개발자 Elric/심민식입니다."**
+서비스의 기획을 실제 사용자 경험으로 연결하고, 팀이 오래 유지보수할 수 있는 프런트엔드 구조를 고민합니다. React와 TypeScript를 중심으로 제품을 구현하며, 여러 프로젝트에서 구조 설계와 핵심 기능 개발, 협업 리드를 맡아왔습니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Link-FF4B4B?style=for-the-badge&logo=React&logoColor=white)](https://portfolio-by-minsik.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-ms03zzang@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:ms03zzang@naver.com)
-[![Instagram](https://img.shields.io/badge/Instagram-sharp.sim__03-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sharp.sim_03)
+[Portfolio](https://portfolio-by-minsik.vercel.app/) · [Email](mailto:ms03zzang@naver.com) · [Instagram](https://www.instagram.com/sharp.sim_03)
 
-</div>
+## Profile
 
----
+- 동양미래대학교 컴퓨터소프트웨어공학과 3학년 재학 중 (22학번)
+- 2026 컴퓨터소프트웨어공학과 학생회 소통부장
+- 동양미래대학교 컴퓨터소프트웨어공학과 전공동아리 EL 23기
+- UMC 9th 챌린저
+- UMC 9th Demo Day PlayProof 프런트엔드 팀장
+- UMC 10th 웹 파트장
+- UMC 10th Demo Day Pebble 프런트엔드 팀장
 
-### 💡 About Me
-- 🎓 **동양미래대학교** 컴퓨터소프트웨어공학과 3학년 재학 중 (22학번)
-- 🗣️ **2026 컴퓨터소프트웨어공학과 학생회 소통부장**
-- 💻 **UMC (University MakeUs Challenge)** 10th 웹 파트장 / 9th 챌린저 - `PlayProof` 프런트엔드 팀장
-- 🏆 **2026 도전!메가시티리그전 우수상 수상**
-- 🤖 **전국민 AI 경진대회 AI ROOKIE 본선 진출** — `Timiroom` 프로젝트 고도화 진행 중
-- 🤝 **동양미래대학교 컴퓨터소프트웨어공학과 전공동아리 EL 23기**
-- 🛠 **Focus**: Feature-Sliced Design (FSD) 아키텍처를 도입하여 대규모 도메인에서도 흔들리지 않는 확장성과 유지보수성을 확보하는 개발을 지향합니다.
+## Current Focus
 
----
-### Stats
-<div align="center">
-  <!-- 정적 배지 (순수 HTML로 변경하여 깨짐 방지) -->
-  <a href="https://github.com/minsik1014">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minsik1014&show_icons=true" width="475" align="center" />
-    <br />
+- **Timiroom** — 전국민 AI 경진대회 AI ROOKIE 본선 진출 프로젝트. PRD·기능 명세·API 명세·ERD를 연결하고, 변경 영향을 AI로 분석·반영하는 문서 기반 협업 플랫폼을 고도화하고 있습니다.
+- **Gusring** — 2026 구로구 RISE 리빙랩 사업 최우수상 수상작. 금천글로벌빌리지센터와 협업해 다국어 민원행정 서비스를 실제 현장에 적용·운영하며 사용자 피드백을 반영하고 있습니다.
 
-  </a>
- 
----
+## Selected Projects
 
-### 🛠 Core Tech Stack
-
-**Languages** <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-
-**Frontend & UX/UI** <br>
-- **Framework & Build**: `React (SPA)`, `Vite`, `React Router`
-- **Styling**: `TailwindCSS`, 디자인 시스템 준수 및 반응형 레이아웃 구현
-- **Optimization**: 상태 관리 및 폼 처리 최적화 적용
-- **UI/UX**: `Figma` 설계 기반 구현, 사용자 경험(피드백, 로딩, 에러 핸들링)을 최우선으로 고려한 개발
-
----
-
-### 🏆 Experience & Activities
-
-| 기간 | 활동 및 대회명 | 역할 및 기여 | 비고 |
+| Project | Description | Role | Links |
 | :--- | :--- | :--- | :--- |
-| **2026~** | **전국민 AI 경진대회 AI ROOKIE** - `Timiroom` | PRD·기능·API·ERD 문서 편집 및 AI 기반 연결 문서 동기화 UI 구현 | **본선 진출 · 진행 중** |
-| **2026** | **도전!메가시티리그전** | 팀 프로젝트 참여, 서비스 기획 및 구현 | **우수상** |
-| **2026~** | **구로구 RISE 리빙랩 사업** - `Gusring` | 프론트엔드 개발, 배포 및 최적화, 다국어 서식 분류 구조 설계 | 진행 중 |
-| **2025** | **구로구 RISE 리빙랩 사업** | 지역 문제 해결 서비스 기획 및 요구사항 정의 | **우수상** |
-| **2025** | **SCOUT BOOTSTUP 스타트업 경진대회** | 팀 프로젝트 참여 및 서포트 | **최우수상** |
-| **2025** | **9th UMC DEMO DAY** | 팀 `PlayProof` 프론트엔드 팀장, 서비스 내 대부분의 주요 페이지 UI 구성 및 개발 | **우수상** |
-| **2025** | **한국전자전 (KES 2025)** | 산업 안전교육 대시보드 개발 (엑셀 업로드, 수강자 관리) | 플랫폼 출전 |
-| **2025** | **동양미래대학교 EXPO 2025** | 발표 및 데모 준비, 기획/화면/기술 정리 | **우수상** |
+| **Pebble** | Category → Milestone → Task 구조로 목표의 맥락과 핵심 마감을 함께 관리하는 일정 서비스 | 프런트엔드 팀장 · 초기 구조 설계 · 홈 및 메인 캘린더 구현 | [Demo](https://pebble-frontend-six.vercel.app/) · [Repository](https://github.com/umc-pebble/Pebble-Frontend) · [Video](https://www.youtube.com/watch?v=9-TA3egFrHE) |
+| **Timiroom** | 연결된 문서의 변경 영향을 AI로 분석하고 동기화하는 문서 기반 협업 플랫폼 | 프런트엔드 개발 · 연결 문서 동기화 UI 구현 | [Repository](https://github.com/timiroom/timiroom-frontend) |
+| **Gusring** | 외국인 거주자를 위한 다국어 민원행정 서식 서비스 | 배포 및 최적화 · 다국어 서식 분류 · 현장 운영 고도화 | [Demo](https://gusring-web.vercel.app/) · [Repository](https://github.com/gusring/gusring-web) |
+| **PlayProof** | 지속 가능한 게임 팀워크를 위한 신뢰 기반 게이밍 커뮤니티 플랫폼 | 프런트엔드 팀장 · 전체 구조 설계 및 주요 기능 구현 | [Demo](https://playproof-frontend.vercel.app/) · [Repository](https://github.com/Playproof-Umc/Playproof-Frontend) · [Video](https://www.youtube.com/watch?v=ZmZQbqu7PIU) |
+| **GLife** | 산업 안전교육 일정·수강 현황·직원 정보를 관리하는 대시보드 | 프런트엔드 개발 · 대시보드 UI 및 기능 구현 | [Repository](https://github.com/minsik1014/GLife_EXPO_React) |
 
----
+[포트폴리오에서 전체 프로젝트 보기](https://portfolio-by-minsik.vercel.app/)
 
-### 🚀 Project History
-> 아이디어를 기획하고 실제 서비스로 구현하며 마주한 문제들을 해결해 온 기록입니다.
+## Experience & Awards
 
-- 🟢 **[진행 중] [Timiroom](https://github.com/timiroom/timiroom-frontend)**: 문서 기반 AI 협업 플랫폼 / AI ROOKIE 본선 프로젝트
-- 🟢 **[진행 중] Gusring**: 다국어 민원행정 서비스 / 배포 및 최적화 담당
-- 🔵 **[완료] PlayProof**: 게임 팀워크 관리 플랫폼 / 프론트엔드 팀장
-- 🔵 **[완료] GLife**: 산업안전교육 플랫폼 대시보드 / 프론트엔드 개발
-- 🔵 **[완료] ChildOfWeather**: 날씨 기반 활동 관리 / 기획 · 프론트 · 백엔드
-- 🔵 **[완료] 포켓몬 데이터 분석**: Streamlit 대시보드 / 데이터 수집 및 시각화
-- 🔵 **[완료] LifeControl**: 라이프 매니지먼트 SPA / 기획 · 디자인 · 프론트엔드
-- 🔵 **[완료] NAMTANG 마이페이지**: 쇼핑몰 데모 / 기획 및 UI 마크업
-- ⚪ **[기획] LiveCoder**: 실시간 코딩 협업 플랫폼 / 서비스 기획 및 UX 설계
-- 🔴 **[중단] 헤윰 (Heyum)**: AI 프롬프트 번역 / 랜딩 페이지 및 확장 프로그램 개발
-- 🔴 **[중단] 수어 번역 웹 앱**: UI 프로토타입 / 프론트엔드 설계
+| Period | Experience | Result / Role |
+| :--- | :--- | :--- |
+| 2026 · 진행 중 | 전국민 AI 경진대회 AI ROOKIE — Timiroom | 본선 진출 · 프런트엔드 개발 |
+| 2026 · 진행 중 | 구로구 RISE 리빙랩 사업 — Gusring | 최우수상 · 금천글로벌빌리지센터 협업 및 현장 운영 |
+| 2026 | 도전!메가시티리그전 | 우수상 |
+| 2025 | SCOUT BOOTSTUP 스타트업 경진대회 | 최우수상 |
+| 2025 | UMC 9th Demo Day — PlayProof | 우수상 · 프런트엔드 팀장 |
+| 2025 | 구로구 RISE 리빙랩 사업 | 우수상 |
+| 2025 | 한국전자전 KES 2025 | 산업 안전교육 플랫폼 출전 |
+| 2025 | 동양미래대학교 EXPO | 우수상 |
 
----
+## Tech Stack
 
-<div align="center">
-  <!-- Komarev 방문자 수 카운터 -->
-  <img src="https://komarev.com/ghpvc/?username=minsik1014&color=3B82F6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+- **Frontend:** React · TypeScript · JavaScript · Vite · React Router · Tailwind CSS · TanStack Query · Zustand · Axios
+- **Languages:** Java · Kotlin · Python · C
+- **Tools:** Figma · GitHub Actions · Vercel
+
+## GitHub
+
+[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fminsik1014&query=%24.public_repos&label=Repositories&style=flat-square&logo=github&color=181717)](https://github.com/minsik1014?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/minsik1014?style=flat-square&logo=github&label=Followers&color=181717)](https://github.com/minsik1014?tab=followers)
+
+GitHub의 기본 Contribution 영역에서 최근 활동과 기여 내역을 확인할 수 있습니다.
