@@ -1,10 +1,24 @@
+<div align="center">
+
 # 심민식 · Elric
 
-Frontend Developer
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=23&amp;duration=2600&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=720&amp;lines=Frontend+Developer;Building+Products+with+React+%26+TypeScript;Leading+Teams%2C+Designing+Systems" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=23&amp;duration=2600&amp;pause=900&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=720&amp;lines=Frontend+Developer;Building+Products+with+React+%26+TypeScript;Leading+Teams%2C+Designing+Systems" alt="Frontend Developer · React and TypeScript · Team Lead" />
+  </picture>
+</a>
 
-서비스의 기획을 실제 사용자 경험으로 연결하고, 팀이 오래 유지보수할 수 있는 프런트엔드 구조를 고민합니다. React와 TypeScript를 중심으로 제품을 구현하며, 여러 프로젝트에서 구조 설계와 핵심 기능 개발, 협업 리드를 맡아왔습니다.
+서비스의 기획을 실제 사용자 경험으로 연결하고,<br />
+팀이 오래 유지보수할 수 있는 프런트엔드 구조를 고민합니다.
 
-[Portfolio](https://portfolio-by-minsik.vercel.app/) · [Email](mailto:ms03zzang@naver.com) · [Instagram](https://www.instagram.com/sharp.sim_03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-334155?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-by-minsik.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-334155?style=flat-square&logo=maildotru&logoColor=white)](mailto:ms03zzang@naver.com)
+[![Instagram](https://img.shields.io/badge/Instagram-334155?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sharp.sim_03)
+
+</div>
+
+---
 
 ## Profile
 
@@ -54,7 +68,25 @@ Frontend Developer
 
 ## GitHub
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minsik1014&amp;theme=github_dark&amp;animation=load&amp;duration=2.4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minsik1014&amp;theme=github&amp;animation=load&amp;duration=2.4" width="700" alt="GitHub profile details" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minsik1014&amp;theme=github_dark&amp;animation=load&amp;duration=2.4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=minsik1014&amp;theme=github&amp;animation=load&amp;duration=2.4" width="340" alt="GitHub statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minsik1014&amp;theme=github_dark&amp;animation=load&amp;duration=2.4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minsik1014&amp;theme=github&amp;animation=load&amp;duration=2.4" width="340" alt="Repositories per language" />
+</picture>
+
 [![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fminsik1014&query=%24.public_repos&label=Repositories&style=flat-square&logo=github&color=181717)](https://github.com/minsik1014?tab=repositories)
 [![GitHub followers](https://img.shields.io/github/followers/minsik1014?style=flat-square&logo=github&label=Followers&color=181717)](https://github.com/minsik1014?tab=followers)
+
+</div>
 
 GitHub의 기본 Contribution 영역에서 최근 활동과 기여 내역을 확인할 수 있습니다.
