@@ -88,5 +88,3 @@
 [![GitHub followers](https://img.shields.io/github/followers/minsik1014?style=flat-square&logo=github&label=Followers&color=181717)](https://github.com/minsik1014?tab=followers)
 
 </div>
-
-GitHub의 기본 Contribution 영역에서 최근 활동과 기여 내역을 확인할 수 있습니다.
